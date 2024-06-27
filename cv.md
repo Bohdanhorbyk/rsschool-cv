@@ -8,7 +8,8 @@
 
 
 ## About Me
-I'm Bohdan, I'm 27 years old and I am from Ukraine. I hope that the war and power outages will not prevent me from completing this course.
+I'm Bohdan, I'm 27 years old and I am from Ukraine. 
+I hope that the war and power outages will not prevent me from completing this course.
 
 
 ## Skills
