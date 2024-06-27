@@ -20,7 +20,7 @@ I'm Bohdan, I'm 27 years old and I am from Ukraine. I hope that the war and powe
 
 ## Education
 - **Courses**: EPAM University;
-GOIT
+GO&IT
 
 ## Languages
 - **Ukrainian**: Native
