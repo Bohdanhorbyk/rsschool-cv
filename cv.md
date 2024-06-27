@@ -18,6 +18,16 @@ I'm Bohdan, I'm 27 years old and I am from Ukraine. I hope that the war and powe
 - CSS Preprocessors (SASS, LESS)
 - BEM Naming
 
+## Education
+- **Courses**: EPAM University;
+GOIT
+
+## Languages
+- **Ukrainian**: Native
+- **Russian**: Native
+- **English**: A2
+
+
 
 
 ## Code Example
